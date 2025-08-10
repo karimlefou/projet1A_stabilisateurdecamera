@@ -1,6 +1,6 @@
 # Projet 1A : Stabilisateur Brushless
 
-**Équipe** : Vous + AMR  
+**Équipe** : karim OUERFELLI + AMR  
 **Encadrant** : M. Dumas
 
 ## 📌 Contexte
